@@ -1,0 +1,11 @@
+{
+  "name": "FiaYoon — Goldfish Artist",
+  "short_name": "FiaYoon",
+  "icons": [
+    { "src": "/assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "theme_color": "#eef3f5",
+  "background_color": "#eef3f5",
+  "display": "standalone"
+}
